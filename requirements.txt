@@ -1,6 +1,6 @@
 gunicorn
 flask==2.2.2
-pickle
+pickle==0.7.5
 numpy
 scikit-learn==1.2.2
 gensim==4.3.0
